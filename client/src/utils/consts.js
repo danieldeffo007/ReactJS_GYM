@@ -1,0 +1,8 @@
+export const LOGIN_ROUTE = '/login'
+export const MAIN_ROUTE = '/main'
+export const CLIENTS_ROUTE = '/clients'
+export const MACHINES_ROUTE = '/machines'
+export const TRAINERS_ROUTE = '/trainers'
+export const REPAIRS_ROUTE = '/repairs'
+export const SUBSCRIBES_ROUTE = '/subscribes'
+export const SUGGESTIONS_ROUTE = '/suggestions'
